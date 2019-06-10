@@ -1,0 +1,11 @@
+
+ squid:UselessImportCheck"pRemove this unused import 'co.fcaptuayo.springandreact.backend.group.repository.command.GroupRepositoryCommand'.(Âíôžúÿÿÿÿ8»éÕ€´-
+Rsquid:EmptyStatementUsageCheck{"Remove this empty statement.(èÿê½þÿÿÿÿ8»éÕ€´-
+Dsquid:S1452D"&Remove usage of generic wildcard type.(«Õ¢Ý8åáËÿ³-
+Isquid:S1452,"&Remove usage of generic wildcard type.(†¾Ëµûÿÿÿÿ8òÃç÷³-
+—squid:UselessImportCheck"lRemove this unused import 'co.fcaptuayo.springandreact.backend.group.repository.query.GroupRepositoryQuery'.(¨Ð§®8»éÕ€´-
+„squid:S3457{"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(èÿê½þÿÿÿÿ8¯Äðÿ³-
+csquid:S46848"@Replace this persistent entity with a simple POJO or DTO object.(³Èõ×ýÿÿÿÿ8Øßß€´-
+Gsquid:S2629{"$Invoke method(s) only conditionally.(èÿê½þÿÿÿÿ8¯Äðÿ³-
+Isquid:S1452>"&Remove usage of generic wildcard type.(ñõåÑøÿÿÿÿ8ù¸Šó³-
+^squid:S46842"@Replace this persistent entity with a simple POJO or DTO object.(ûµ€±8Øßß€´-

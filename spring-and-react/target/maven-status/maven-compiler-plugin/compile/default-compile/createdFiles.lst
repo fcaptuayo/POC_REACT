@@ -1,0 +1,15 @@
+co/fcaptuayo/springandreact/backend/util/page/filter/LazyPageFilter.class
+co/fcaptuayo/springandreact/backend/group/controller/GroupController.class
+co/fcaptuayo/springandreact/backend/group/model/Group.class
+co/fcaptuayo/springandreact/backend/group/model/Event.class
+co/fcaptuayo/springandreact/backend/Initializer.class
+co/fcaptuayo/springandreact/backend/util/page/param/LazyPageParamsRest.class
+co/fcaptuayo/springandreact/backend/group/model/User.class
+co/fcaptuayo/springandreact/backend/group/service/command/impl/GroupCommandServiceImpl.class
+co/fcaptuayo/springandreact/backend/group/service/query/GroupQueryService.class
+co/fcaptuayo/springandreact/backend/group/repository/query/GroupRepositoryQuery.class
+co/fcaptuayo/springandreact/backend/group/model/Event$EventBuilder.class
+co/fcaptuayo/springandreact/backend/group/service/query/impl/GroupQueryServiceImpl.class
+co/fcaptuayo/springandreact/backend/group/service/command/GroupCommandService.class
+co/fcaptuayo/springandreact/SpringAndReactApplication.class
+co/fcaptuayo/springandreact/backend/group/repository/command/GroupRepositoryCommand.class

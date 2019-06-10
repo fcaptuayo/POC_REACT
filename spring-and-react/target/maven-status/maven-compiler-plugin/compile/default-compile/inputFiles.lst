@@ -1,0 +1,14 @@
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/service/query/impl/GroupQueryServiceImpl.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/SpringAndReactApplication.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/Initializer.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/controller/GroupController.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/repository/command/GroupRepositoryCommand.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/service/command/GroupCommandService.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/model/User.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/service/command/impl/GroupCommandServiceImpl.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/model/Group.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/util/page/param/LazyPageParamsRest.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/model/Event.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/util/page/filter/LazyPageFilter.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/repository/query/GroupRepositoryQuery.java
+/Users/fredygonzalocaptuayonovoa/project/poc/spring-and-react/spring-and-react/src/main/java/co/fcaptuayo/springandreact/backend/group/service/query/GroupQueryService.java
